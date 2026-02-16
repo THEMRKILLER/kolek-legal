@@ -184,7 +184,7 @@ En caso de conflicto entre versiones en diferentes idiomas, prevalecerá la vers
 
 Para preguntas sobre estos Términos, contáctanos:
 
-**Email:** support@cberdejo.com  
+**Email:** soporte.kolek@gmail.com  
 **Desarrollador:** César Berdejo  
 **Aplicación:** Kolek - Gestión de Colecciones
 
@@ -378,6 +378,6 @@ In case of conflict between versions in different languages, the Spanish version
 
 For questions about these Terms, contact us:
 
-**Email:** support@cberdejo.com  
+**Email:** soporte.kolek@gmail.com  
 **Developer:** César Berdejo  
 **App:** Kolek - Collection Management

@@ -88,7 +88,7 @@ Tienes derecho a:
 - **Limitar:** Restringir el procesamiento de tu información
 - **Oponerte:** Rechazar ciertos usos de tu información
 
-Para ejercer estos derechos, contáctanos en: **support@cberdejo.com**
+Para ejercer estos derechos, contáctanos en: **soporte.kolek@gmail.com**
 
 ## Privacidad de Menores
 
@@ -120,7 +120,7 @@ Tus datos pueden ser transferidos y almacenados en servidores ubicados fuera de 
 
 Si tienes preguntas, inquietudes o solicitudes relacionadas con esta Política de Privacidad o el manejo de tus datos personales, contáctanos:
 
-**Email:** support@cberdejo.com  
+**Email:** soporte.kolek@gmail.com  
 **Desarrollador:** César Berdejo  
 **Aplicación:** Kolek - Gestión de Colecciones
 
@@ -222,7 +222,7 @@ You have the right to:
 - **Restrict:** Limit the processing of your information
 - **Object:** Refuse certain uses of your information
 
-To exercise these rights, contact us at: **support@cberdejo.com**
+To exercise these rights, contact us at: **soporte.kolek@gmail.com**
 
 ## Children's Privacy
 
@@ -254,7 +254,7 @@ Your data may be transferred and stored on servers located outside your country 
 
 If you have questions, concerns, or requests related to this Privacy Policy or the handling of your personal data, contact us:
 
-**Email:** support@cberdejo.com  
+**Email:** soporte.kolek@gmail.com  
 **Developer:** César Berdejo  
 **App:** Kolek - Collection Management
 
